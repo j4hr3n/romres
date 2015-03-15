@@ -1,0 +1,38 @@
+<template name="sidebar">
+    <div id="sidebar-forms">
+    </div>
+    <div id="sidebar-main-wrapper" class="sidebar-wrapper">
+        <!--<form class="sidebar-form" role="search">-->
+            <!--<div class="form-group">-->
+                <!--<input type="text" class="form-control" placeholder="building">-->
+            <!--</div>-->
+        <!--</form>-->
+        <ul id="sidebar-main" class="sidebar-nav">
+            <li><a href="#" id="all" class="building">Alle</a></li>
+            {{#if buildings}}
+                {{#each buildings}}
+                <li><a href="{{bnr}}" id="{{bnr}}" class="building">{{name}}</a></li>
+                {{/each}}
+            {{else}}
+                No buildings :(
+            {{/if}}
+        </ul>
+    </div>
+    <div id="sidebar-second-wrapper" class="sidebar-wrapper">
+        <ul id="sidebar-second" class="sidebar-nav">
+            {{#if rooms}}
+                {{#each rooms}}
+                <li><a href="#{{number}}" id="{{rnr}}" class="room">{{name}}</a></li>
+                {{/each}}
+            {{else}}
+            {{/if}}
+        </ul>
+    </div>
+</template>
+
+
+<template name="mainSidebar">
+</template>
+
+<template name="secondSidebar">
+</template>

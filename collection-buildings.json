@@ -1,0 +1,59 @@
+{ "bnr" : "333", "name" : "Berg", "meta" : "", "_id" : "u7LZWb4i4Kz3oe9Yr" }
+{ "bnr" : "2-310", "name" : "Bevegelsessenteret", "meta" : "", "_id" : "p3seoBGGkLi3r3o63" }
+{ "bnr" : "080", "name" : "Biologisk stasjon", "meta" : "", "_id" : "MgPSQQ9vvbcGLY5Qg" }
+{ "bnr" : "025", "name" : "Brattørkaia", "meta" : "", "_id" : "yJymat6XPs8ezkg3k" }
+{ "bnr" : "337", "name" : "Byggteknisk del 1", "meta" : "", "_id" : "KbrqePESTQ87jsF2t" }
+{ "bnr" : "810", "name" : "Dragvoll 1", "meta" : "bygg 1-6", "_id" : "RSsmapNs9zWD7R3Px" }
+{ "bnr" : "820", "name" : "Dragvoll 2 ", "meta" : "Bygg 7-10", "_id" : "EScBFxCoMtvhKcS3E" }
+{ "bnr" : "830", "name" : "Dragvoll 3 ", "meta" : "Bygg 11-12", "_id" : "apMRNBMNpbtri7Tmu" }
+{ "bnr" : "326", "name" : "Elektro A", "meta" : "", "_id" : "wizAToMcoJm2ShMZA" }
+{ "bnr" : "327", "name" : "Elektro B", "meta" : "", "_id" : "ujW9RRug5GmCpMEBD" }
+{ "bnr" : "329", "name" : "Elektro D+B2", "meta" : "", "_id" : "ETjFuG5PSeFqBGY4R" }
+{ "bnr" : "341", "name" : "Elektro E/F", "meta" : "", "_id" : "kWwqH85iCLX8zXC85" }
+{ "bnr" : "061", "name" : "Fjordgata 1", "meta" : "", "_id" : "5qw3i8FBa8Ji8qBgA" }
+{ "bnr" : "325", "name" : "Gamle elektro", "meta" : "", "_id" : "5xv4cLWjjZMWifT5M" }
+{ "bnr" : "319", "name" : "Gamle fysikk", "meta" : "", "_id" : "Dszcu2xkHY2EqNeoq" }
+{ "bnr" : "323", "name" : "Gamle kjemi", "meta" : "", "_id" : "eDjsL2w9AMAdnNkvf" }
+{ "bnr" : "2-430", "name" : "Gastrosenteret", "meta" : "", "_id" : "3JLgfCYvxgFTAtbRA" }
+{ "bnr" : "306", "name" : "Geologi", "meta" : "", "_id" : "vMHKjdGiyLRvYBsXn" }
+{ "bnr" : "332", "name" : "Grønnbygget", "meta" : "", "_id" : "Ta3qFRfeqxGhxsHDZ" }
+{ "bnr" : "130", "name" : "Gunnerusbiblioteket", "meta" : "", "_id" : "26vMW3y8MFefk3arj" }
+{ "bnr" : "125", "name" : "Gunnerushuset", "meta" : "", "_id" : "23BNsYGo8t4uuEKkr" }
+{ "bnr" : "301", "name" : "Hovedbygningen ", "meta" : "Gløshaugen", "_id" : "F7nuks2pJ5JxcKziP" }
+{ "bnr" : "358", "name" : "Høgskoleringen 3", "meta" : "", "_id" : "XQLPTN75o4tjq8XKJ" }
+{ "bnr" : "335", "name" : "Idrettsbygget ", "meta" : "Gløshaugen", "_id" : "DQoghg2LSagTktAkN" }
+{ "bnr" : "850", "name" : "Idrettssenteret ", "meta" : "Dragvoll", "_id" : "qSA9XyR9N9xFbvwkn" }
+{ "bnr" : "075", "name" : "Industribygget", "meta" : "", "_id" : "ixaaWTwvscprJwqPn" }
+{ "bnr" : "318", "name" : "IT-bygget, sydfløy", "meta" : "", "_id" : "8jJ9RatCHFPxhbNZd" }
+{ "bnr" : "078", "name" : "Jonsvannsveien", "meta" : "", "_id" : "nrmwjvSSXtGKG8nqe" }
+{ "bnr" : "354", "name" : "Kjelhuset", "meta" : "", "_id" : "jRpmMeJPfbm5QvSFN" }
+{ "bnr" : "311", "name" : "Kjemi 1", "meta" : "", "_id" : "G7dN3inf9QQoJbbid" }
+{ "bnr" : "313", "name" : "Kjemi 3", "meta" : "", "_id" : "QAHSzz5KNFzHyxqAv" }
+{ "bnr" : "314", "name" : "Kjemi 4", "meta" : "", "_id" : "5rE9YqTAF7oQYXbEc" }
+{ "bnr" : "315", "name" : "Kjemi 5", "meta" : "", "_id" : "K9izndSSBM6o6bkqM" }
+{ "bnr" : "062", "name" : "Kjøpmannsgata 42", "meta" : "", "_id" : "KtAcmpvDRbsoum6jR" }
+{ "bnr" : "065", "name" : "Krambugt 12/14", "meta" : "", "_id" : "rcWdP7yxQRKFMHR8r" }
+{ "bnr" : "2-240", "name" : "Kvinne-barnsenteret", "meta" : "", "_id" : "ALZgZytgDZi6jSruu" }
+{ "bnr" : "2-230", "name" : "Laboratorietsenteret", "meta" : "", "_id" : "h2JuFpKLJY29Jjynf" }
+{ "bnr" : "LUCAS", "name" : "Lucasbygget", "meta" : "", "_id" : "esfAF6uWCQSzbiuG5" }
+{ "bnr" : "825", "name" : "Låven", "meta" : "", "_id" : "X2xrnnLhQ3jFvtQDJ" }
+{ "bnr" : "639", "name" : "Marinteknisk senter", "meta" : "", "_id" : "8rA8jeDgvHjvB2nSs" }
+{ "bnr" : "304", "name" : "Metallurgi", "meta" : "", "_id" : "HyhTWHQDWkzg5DF8z" }
+{ "bnr" : "220", "name" : "MTFS, del 1", "meta" : "", "_id" : "2KNGWaFEANv8HNp3Y" }
+{ "bnr" : "2-130", "name" : "Nevrosenteret", "meta" : "", "_id" : "jfBBWXTLeNeuu6C6o" }
+{ "bnr" : "436", "name" : "Norsk hydroteknisk laboratorium", "meta" : "", "_id" : "wCmBchwvYfTnn76uJ" }
+{ "bnr" : "060", "name" : "Olavskvartalet", "meta" : "", "_id" : "nxxvKuAZyxqA4QfKf" }
+{ "bnr" : "305", "name" : "Oppredning/gruvedrift", "meta" : "", "_id" : "e93DaM8PoGthGKfch" }
+{ "bnr" : "823", "name" : "Paviljong C", "meta" : "", "_id" : "8Jd4nSHSdi833igPy" }
+{ "bnr" : "444", "name" : "Petroleumsteknisk senter", "meta" : "", "_id" : "vf4RfNxQjrydkuDEo" }
+{ "bnr" : "365", "name" : "PFI", "meta" : "", "_id" : "3wkWfGEkAroa8PZ7D" }
+{ "bnr" : "824", "name" : "Plantebiosenteret", "meta" : "", "_id" : "BTGi3PtnKd2cMFeRT" }
+{ "bnr" : "443", "name" : "PTS Paviljong", "meta" : "", "_id" : "fkvqoPmXqsx6LP6tn" }
+{ "bnr" : "360", "name" : "Realfagbygget", "meta" : "", "_id" : "f8uXf5TQtDo6yJygA" }
+{ "bnr" : "321", "name" : "Sentralbygg 1", "meta" : "", "_id" : "2yLyw583ZwWn5X8eR" }
+{ "bnr" : "322", "name" : "Sentralbygg 2", "meta" : "", "_id" : "M9c8dAAZPqsDXLKki" }
+{ "bnr" : "135", "name" : "Suhmhuset", "meta" : "", "_id" : "yf7QoaWdZiEfaeY9a" }
+{ "bnr" : "460", "name" : "Valgrinda 2000", "meta" : "", "_id" : "HgGJCJqHEHHYkddWf" }
+{ "bnr" : "302", "name" : "Varmeteknisk", "meta" : "", "_id" : "bR6aLbh4Z7YbGaaex" }
+{ "bnr" : "446", "name" : "Vassbygget", "meta" : "", "_id" : "8zLGCowPd3AYN2kXh" }
+{ "bnr" : "307", "name" : "Verkstedteknisk", "meta" : "", "_id" : "S4k7rLRzSBFTg35ae" }

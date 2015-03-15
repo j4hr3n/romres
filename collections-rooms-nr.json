@@ -1,0 +1,492 @@
+{ "rnr" : "313233", "name" : "313233", "_id" : "DBqe5v99LZXhp83y3", "bnr" : "313" }
+{ "rnr" : "313333", "name" : "313333", "_id" : "wapZWCqGZ7aRNe3N4", "bnr" : "313" }
+{ "rnr" : "322246", "name" : "322246", "_id" : "qjYrB2Nh8s5t3o2eG", "bnr" : "322" }
+{ "rnr" : "360A2-127", "name" : "360A2-127", "_id" : "zc9kyXrfKQMCajuAn", "bnr" : "360" }
+{ "rnr" : "304114", "name" : "B Datasal Met-114", "_id" : "6ne6QhYB7ScbE4JQJ", "bnr" : "304" }
+{ "rnr" : "333F-S040A", "name" : "B IGB-Ø2", "_id" : "Ccxr5rpGkLipYs8eu", "bnr" : "333" }
+{ "rnr" : "333F-S040B", "name" : "B Rom F-S040B", "_id" : "Azb653dSdLfAgvS7p", "bnr" : "333" }
+{ "rnr" : "333A-S041", "name" : "B1", "_id" : "9Xcy4rkn96wEeMh8r", "bnr" : "333" }
+{ "rnr" : "333A-S049", "name" : "B2", "_id" : "xbBLY3KKTzNgTmDr4", "bnr" : "333" }
+{ "rnr" : "333A-S051", "name" : "B21", "_id" : "kkAY8nY3GG5RFkFrp", "bnr" : "333" }
+{ "rnr" : "333A-143", "name" : "B22", "_id" : "xP8Xs5mE9hLx2WaBA", "bnr" : "333" }
+{ "rnr" : "333A-451", "name" : "B23", "_id" : "4E8S2pkyt5AE6xevJ", "bnr" : "333" }
+{ "rnr" : "333F-S030A", "name" : "B25", "_id" : "MoJ35X4y3FMefTKvM", "bnr" : "333" }
+{ "rnr" : "305343", "name" : "B3", "_id" : "duCxMsaAf8GpzMBzW", "bnr" : "305" }
+{ "rnr" : "360B3-103", "name" : "B3-103", "_id" : "YHB9S6yHJso4vFc5d", "bnr" : "360" }
+{ "rnr" : "360B3-107", "name" : "B3-107", "_id" : "Lvrs4uFe8BfpgTZPS", "bnr" : "360" }
+{ "rnr" : "360B3-126", "name" : "B3-126", "_id" : "NhSqoH7zQaWr3tjJb", "bnr" : "360" }
+{ "rnr" : "360B3-131", "name" : "B3-131", "_id" : "WQPxjJxQW9voYtYYo", "bnr" : "360" }
+{ "rnr" : "360B3-135", "name" : "B3-135", "_id" : "hCy7W7qpw2gZAsYK8", "bnr" : "360" }
+{ "rnr" : "360B3-136", "name" : "B3-136", "_id" : "vzrq7WumELkGAaynM", "bnr" : "360" }
+{ "rnr" : "329B333", "name" : "B333", "_id" : "s7GkyZj7JMNDWLAyd", "bnr" : "329" }
+{ "rnr" : "2-310311.05.047", "name" : "BG51", "_id" : "ZFgFiGcNzXfB8tFFa", "bnr" : "2-310" }
+{ "rnr" : "8208394", "name" : "Blackbox", "_id" : "SbmctKbLciXNyi37n", "bnr" : "820" }
+{ "rnr" : "025103", "name" : "BR Undlab 103", "_id" : "FwyyEcTBnKZcjftSM", "bnr" : "025" }
+{ "rnr" : "2-310311.03.038", "name" : "BS31", "_id" : "aS5kF74Jx3uZiAupS", "bnr" : "2-310" }
+{ "rnr" : "2-310311.05.049", "name" : "BS51", "_id" : "tPfjSKrFH233fg8t8", "bnr" : "2-310" }
+{ "rnr" : "8102406", "name" : "Bygg 2 - 2406", "_id" : "ezBFzmcnyhZxgucpf", "bnr" : "810" }
+{ "rnr" : "8102431", "name" : "Bygg 2 - 2431", "_id" : "7fCePJESTPbhFHwzW", "bnr" : "810" }
+{ "rnr" : "360D1-124", "name" : "Cellebiologilab", "_id" : "8RvKYfonvMsBWSBvC", "bnr" : "360" }
+{ "rnr" : "8106593", "name" : "D Balkongen 6593", "_id" : "wos7XpAfTPgkxkXKc", "bnr" : "810" }
+{ "rnr" : "8208581", "name" : "D Det kreative rommet 8581", "_id" : "r2YZ9Rn22AWFp8YYR", "bnr" : "820" }
+{ "rnr" : "8106596", "name" : "D Dårekisten 6596", "_id" : "tjyewfABmBBvWesvh", "bnr" : "810" }
+{ "rnr" : "8106594", "name" : "D Fyret 6594", "_id" : "D4JbFonHBS6rXsm8L", "bnr" : "810" }
+{ "rnr" : "8106581", "name" : "D Glassmenasjeriet 6581", "_id" : "wwzpjSEuCXxdTNPki", "bnr" : "810" }
+{ "rnr" : "8106598.2", "name" : "D Grotten 6598.2", "_id" : "vmWmZ8SDZHH9udhAD", "bnr" : "810" }
+{ "rnr" : "8106598.3", "name" : "D Hiet 6598.3", "_id" : "AvaLkNPtM8m8vcafJ", "bnr" : "810" }
+{ "rnr" : "8208583", "name" : "D Hjernestormrommet 8583", "_id" : "8AihDTjRnEaaJjuLP", "bnr" : "820" }
+{ "rnr" : "8106598.1", "name" : "D Hulen 6598.1", "_id" : "BEpQLdZ9cEdHr5W9Y", "bnr" : "810" }
+{ "rnr" : "8208589", "name" : "D Idemyldringsrommet 8589", "_id" : "WzejzuTsE7NdNxn2B", "bnr" : "820" }
+{ "rnr" : "8106598.4", "name" : "D Isolatet 6598.4", "_id" : "cc9egbrdySojjamFm", "bnr" : "810" }
+{ "rnr" : "8106592", "name" : "D Location 6592", "_id" : "QwJLfCW7EiBJ5J3HG", "bnr" : "810" }
+{ "rnr" : "8106597", "name" : "D Notre Dame 6597", "_id" : "Liabze4dM5e4sEipy", "bnr" : "810" }
+{ "rnr" : "8106579", "name" : "D Post printum 6579", "_id" : "CGS5JdshJ2qTF4aoB", "bnr" : "810" }
+{ "rnr" : "82010350", "name" : "D Rom 10350", "_id" : "HuYyX3Yv6RXY2wxP4", "bnr" : "820" }
+{ "rnr" : "83012261E", "name" : "D Rom 12261E", "_id" : "fNZsENKvJgh5Lbi7a", "bnr" : "830" }
+{ "rnr" : "83012261F", "name" : "D Rom 12261F", "_id" : "tECrbsjQFHkXHk8Fm", "bnr" : "830" }
+{ "rnr" : "83012405", "name" : "D Rom 12405", "_id" : "ECFpFqqbcTAKE6WZk", "bnr" : "830" }
+{ "rnr" : "8102425", "name" : "D Rom 2425", "_id" : "j86s7FcnLruxmga5G", "bnr" : "810" }
+{ "rnr" : "8104402", "name" : "D Rom 4402", "_id" : "HPkYcmaKH7mM9Cadh", "bnr" : "810" }
+{ "rnr" : "8104403", "name" : "D Rom 4403", "_id" : "4y4Abogfz43qAriSC", "bnr" : "810" }
+{ "rnr" : "8106277", "name" : "D Rom 6277", "_id" : "LkYXgYJwqGfi8hXds", "bnr" : "810" }
+{ "rnr" : "8106278", "name" : "D Rom 6278", "_id" : "bHBGw8isywnzZkyfw", "bnr" : "810" }
+{ "rnr" : "8106279", "name" : "D Rom 6279", "_id" : "dkTQLRLgwhx5Pymw7", "bnr" : "810" }
+{ "rnr" : "8106280", "name" : "D Rom 6280", "_id" : "FTR54ziSY2AnDHQ3H", "bnr" : "810" }
+{ "rnr" : "8106286", "name" : "D Rom 6286", "_id" : "JSLw7qFAxAwtk9irq", "bnr" : "810" }
+{ "rnr" : "8106288", "name" : "D Rom 6288", "_id" : "fmnZaGSkrHceTX5dS", "bnr" : "810" }
+{ "rnr" : "8106309", "name" : "D Rom 6309 (D122)", "_id" : "3dv24cC8JNwLZgsfB", "bnr" : "810" }
+{ "rnr" : "8106312", "name" : "D Rom 6312 (D125)", "_id" : "grdx6nR6HX6mQLX2p", "bnr" : "810" }
+{ "rnr" : "8106341", "name" : "D Rom 6341", "_id" : "2qLygf4cK6eoyJEZC", "bnr" : "810" }
+{ "rnr" : "8106396B", "name" : "D Rom 6396B", "_id" : "hQ2B9NoqnrsnGueox", "bnr" : "810" }
+{ "rnr" : "8106396C", "name" : "D Rom 6396C", "_id" : "Nr4mZheKDsf4dJh8b", "bnr" : "810" }
+{ "rnr" : "8106396D", "name" : "D Rom 6396D", "_id" : "ESYmD3jP2CZX33cLn", "bnr" : "810" }
+{ "rnr" : "8106397.2", "name" : "D Rom 6397.2", "_id" : "PS7AzinGjwJ3A4GLk", "bnr" : "810" }
+{ "rnr" : "8106397.3", "name" : "D Rom 6397.3", "_id" : "LoChyBXgw2LKuCLft", "bnr" : "810" }
+{ "rnr" : "8106397.4", "name" : "D Rom 6397.4", "_id" : "yv45FuaNpZYqSAf4G", "bnr" : "810" }
+{ "rnr" : "8106397.5", "name" : "D Rom 6397.5", "_id" : "MFtDs8aGJhdnSF79M", "bnr" : "810" }
+{ "rnr" : "8106485C", "name" : "D Rom 6485C", "_id" : "sppoMxTwpvf8atHtk", "bnr" : "810" }
+{ "rnr" : "8106485D", "name" : "D Rom 6485D", "_id" : "Y9EKp4PxaBtj9EsMP", "bnr" : "810" }
+{ "rnr" : "8106486B", "name" : "D Rom 6486B", "_id" : "xu9buGDbpLpNFkfqo", "bnr" : "810" }
+{ "rnr" : "8106486C", "name" : "D Rom 6486C", "_id" : "syq4aaLPDixiHAq7z", "bnr" : "810" }
+{ "rnr" : "8106591", "name" : "D Rom 6591", "_id" : "pTNb4peSQAouNkPfy", "bnr" : "810" }
+{ "rnr" : "8208587", "name" : "D Samhandlingsrommet 8587", "_id" : "nccXwutxq5DuRMHNn", "bnr" : "820" }
+{ "rnr" : "8106595", "name" : "D Snekkerbua 6595", "_id" : "TNGhvp9LofAnu78Kf", "bnr" : "810" }
+{ "rnr" : "8102419", "name" : "D Studio (mus)", "_id" : "CQdKHiA6kb5TgAWJZ", "bnr" : "810" }
+{ "rnr" : "8208589b", "name" : "D Tenketanken 8589b", "_id" : "JF5fPhvD3kZe69a2D", "bnr" : "820" }
+{ "rnr" : "8102305", "name" : "D1", "_id" : "aALCzpPpkWbPbArJt", "bnr" : "810" }
+{ "rnr" : "8208480", "name" : "D10", "_id" : "6JNhY2AGs6iNX7Ggg", "bnr" : "820" }
+{ "rnr" : "8103308", "name" : "D101", "_id" : "yonFfujE99qcLC7LC", "bnr" : "810" }
+{ "rnr" : "8103307", "name" : "D102", "_id" : "gC3Hi33rZNYKTRCgM", "bnr" : "810" }
+{ "rnr" : "8103305", "name" : "D104", "_id" : "SdAdsgSxC64jdAd9n", "bnr" : "810" }
+{ "rnr" : "8103309", "name" : "D106", "_id" : "JtkXbNuyLSfmQ6ZKF", "bnr" : "810" }
+{ "rnr" : "8103301", "name" : "D107", "_id" : "Ayu6Ju7Xj9xnicTmQ", "bnr" : "810" }
+{ "rnr" : "8207337", "name" : "D11", "_id" : "uikPhTanQYhHdTtp9", "bnr" : "820" }
+{ "rnr" : "8207338", "name" : "D110", "_id" : "WdMYpfas5zdBDjccK", "bnr" : "820" }
+{ "rnr" : "8207336", "name" : "D111", "_id" : "fN832jrTacvxF8NWc", "bnr" : "820" }
+{ "rnr" : "8207335", "name" : "D112", "_id" : "8Cq77mwT9RY5XQMqB", "bnr" : "820" }
+{ "rnr" : "8207329", "name" : "D113", "_id" : "BD6un42pruKQdNeTG", "bnr" : "820" }
+{ "rnr" : "82010415", "name" : "D114", "_id" : "q5MqxEeZnBxmF33HH", "bnr" : "820" }
+{ "rnr" : "82010411", "name" : "D115", "_id" : "9awZn65g6MAhoqmyx", "bnr" : "820" }
+{ "rnr" : "8209433", "name" : "D116", "_id" : "9hLx4p28j8cfRYmHc", "bnr" : "820" }
+{ "rnr" : "8209435", "name" : "D117", "_id" : "j3B3WqykFyyNEuRdF", "bnr" : "820" }
+{ "rnr" : "8209441", "name" : "D118", "_id" : "BYWDv4QJCBhy8Jo36", "bnr" : "820" }
+{ "rnr" : "8105401", "name" : "D119", "_id" : "qdgEhpbRCqrQRDZfu", "bnr" : "810" }
+{ "rnr" : "82010403", "name" : "D12", "_id" : "7kc7YPHzQCTqZR3gk", "bnr" : "820" }
+{ "rnr" : "82010407", "name" : "D13", "_id" : "8GYKkfkvMXa5KPLH9", "bnr" : "820" }
+{ "rnr" : "83011433", "name" : "D130", "_id" : "WHLJhmE2YwjT8oaPa", "bnr" : "830" }
+{ "rnr" : "83011447", "name" : "D131", "_id" : "7jSf3QzH4z2KKQEfW", "bnr" : "830" }
+{ "rnr" : "83011449", "name" : "D132", "_id" : "3pJebBRiBx7rm2fH6", "bnr" : "830" }
+{ "rnr" : "83011463", "name" : "D133", "_id" : "ccGDCn4iSy8H2vCYP", "bnr" : "830" }
+{ "rnr" : "83011469", "name" : "D134", "_id" : "kTesMLFzfuH6nGEkj", "bnr" : "830" }
+{ "rnr" : "83012401", "name" : "D135", "_id" : "CdqsyhKBc7zAprihF", "bnr" : "830" }
+{ "rnr" : "83012465", "name" : "D136", "_id" : "RRt2Fn6EwbYm5yiJ9", "bnr" : "830" }
+{ "rnr" : "83012469", "name" : "D137", "_id" : "PnHtSiLNZDd9LsnMb", "bnr" : "830" }
+{ "rnr" : "83012473", "name" : "D138", "_id" : "3Wk98ytvYC4Z6cPtp", "bnr" : "830" }
+{ "rnr" : "83012477", "name" : "D139", "_id" : "mk2F5uLyxp8itQiDn", "bnr" : "830" }
+{ "rnr" : "8209427", "name" : "D14", "_id" : "Ld79QaHrYwGLrwNK7", "bnr" : "820" }
+{ "rnr" : "83011406", "name" : "D15", "_id" : "oM9hERuBfLDjjgfcT", "bnr" : "830" }
+{ "rnr" : "8106290", "name" : "D150", "_id" : "i2X2msYvgn4PhZtHG", "bnr" : "810" }
+{ "rnr" : "8106375", "name" : "D151", "_id" : "YiPAEzTBWevMfaeBE", "bnr" : "810" }
+{ "rnr" : "8106390", "name" : "D152", "_id" : "a96ZtsSWoJwyFwcs6", "bnr" : "810" }
+{ "rnr" : "8106475", "name" : "D153", "_id" : "2qLxYcwLfQWiDaufB", "bnr" : "810" }
+{ "rnr" : "8106490", "name" : "D154", "_id" : "eyfEmxtbA8pN3CSBC", "bnr" : "810" }
+{ "rnr" : "8102304", "name" : "D2", "_id" : "3xzyxtYGgKztcDHMN", "bnr" : "810" }
+{ "rnr" : "8102303", "name" : "D3", "_id" : "vqKXzRcDcjD5PRmNA", "bnr" : "810" }
+{ "rnr" : "8105302", "name" : "D4", "_id" : "YjJzNkqvXNQuvHwgT", "bnr" : "810" }
+{ "rnr" : "8105303", "name" : "D5", "_id" : "adNBDA5WfT9zJPSDN", "bnr" : "810" }
+{ "rnr" : "8105304", "name" : "D6", "_id" : "j6HekB8a533prKXyQ", "bnr" : "810" }
+{ "rnr" : "8102301", "name" : "D7", "_id" : "YGKzycJ8CR3iwBaBj", "bnr" : "810" }
+{ "rnr" : "8103302", "name" : "D8", "_id" : "JPXYSBewZLBjLJE37", "bnr" : "810" }
+{ "rnr" : "8103303", "name" : "D9", "_id" : "MCMvFdQxo5W6W9uwA", "bnr" : "810" }
+{ "rnr" : "82010345", "name" : "Datasal 10345", "_id" : "nvv2kuxyMpSd7gim5", "bnr" : "820" }
+{ "rnr" : "82010349", "name" : "Datasal 10349", "_id" : "GQyDi3t7D49PdW5Du", "bnr" : "820" }
+{ "rnr" : "83012261B", "name" : "Datasal 12261B", "_id" : "dqie6vcAJZaDuaJpA", "bnr" : "830" }
+{ "rnr" : "83012261C", "name" : "Datasal 12261C", "_id" : "WSDR3Cie3xxCWo3kT", "bnr" : "830" }
+{ "rnr" : "83012581", "name" : "Datasal 12581", "_id" : "ekK5MPxGFaxcHmDnH", "bnr" : "830" }
+{ "rnr" : "8207362", "name" : "Datasal 7362", "_id" : "KS77GBoAjbh2uKcLp", "bnr" : "820" }
+{ "rnr" : "8207546", "name" : "Datasal 7546", "_id" : "F9LbZGHFxDwugWGDd", "bnr" : "820" }
+{ "rnr" : "8209420", "name" : "Datasal 9420", "_id" : "nbhMp5S8fsdSAnrJE", "bnr" : "820" }
+{ "rnr" : "850B341", "name" : "Datasal B341", "_id" : "LZqYY9AX9zxiejye5", "bnr" : "850" }
+{ "rnr" : "307202", "name" : "Datasal Kalahari", "_id" : "mZ7LSfFXJuiJjYHpn", "bnr" : "302" }
+{ "rnr" : "307201A", "name" : "Datasal Sahara", "_id" : "essS8iT22hfLWmwzC", "bnr" : "302" }
+{ "rnr" : "823104", "name" : "DC104", "_id" : "jBFhXEmjFawqD6LdB", "bnr" : "823" }
+{ "rnr" : "850A221", "name" : "DI171", "_id" : "igcyyZk5yhF4RFxWT", "bnr" : "850" }
+{ "rnr" : "850A205", "name" : "DI172", "_id" : "dhFecrT9avHszL43Z", "bnr" : "850" }
+{ "rnr" : "850A421", "name" : "DI173", "_id" : "FAvSBXbZRbgiqhYB3", "bnr" : "850" }
+{ "rnr" : "850A422", "name" : "DI174", "_id" : "ZkJs42PHoT8FHjiZT", "bnr" : "850" }
+{ "rnr" : "850A201", "name" : "DI175 (A201)", "_id" : "jFpdFRjQRtwcfYinY", "bnr" : "850" }
+{ "rnr" : "850A348", "name" : "DI176 (A348)", "_id" : "TAP8hpWkj68Mu8NT4", "bnr" : "850" }
+{ "rnr" : "850A203", "name" : "DI41", "_id" : "Bx4eJf7bQL3g2KDj2", "bnr" : "850" }
+{ "rnr" : "850A204", "name" : "DI42", "_id" : "T23BEcwD9HjPEJhLA", "bnr" : "850" }
+{ "rnr" : "824117", "name" : "DL Rom 117", "_id" : "s5ESa7DQQCqmv5Adq", "bnr" : "824" }
+{ "rnr" : "825032", "name" : "DL140", "_id" : "r8sTR3N6ynrkzLNmJ", "bnr" : "825" }
+{ "rnr" : "825133", "name" : "DL141", "_id" : "bgsQKSiKPJ9XHdypT", "bnr" : "825" }
+{ "rnr" : "825231", "name" : "DL143", "_id" : "gzCuSE6wtnnoQHECt", "bnr" : "825" }
+{ "rnr" : "825331", "name" : "DL145", "_id" : "955kdM4mQetJk2xg4", "bnr" : "825" }
+{ "rnr" : "825333", "name" : "DL146", "_id" : "SGGxkqG2o7shPsE7u", "bnr" : "825" }
+{ "rnr" : "825335", "name" : "DL147", "_id" : "cHLH253mPEj85LLeo", "bnr" : "825" }
+{ "rnr" : "825340", "name" : "DL148", "_id" : "t9WNirHxoXJfzq32J", "bnr" : "825" }
+{ "rnr" : "825031", "name" : "DL31", "_id" : "88nZcR3aHdBr3SsWW", "bnr" : "825" }
+{ "rnr" : "825030", "name" : "DL32", "_id" : "burGYeC3ipN6LhgP8", "bnr" : "825" }
+{ "rnr" : "333E-506", "name" : "E-506", "_id" : "nSqbjPpJFPdsxFSaZ", "bnr" : "333" }
+{ "rnr" : "360E3-107", "name" : "E3-107", "_id" : "6Qyxd8jH5uCgwfsP7", "bnr" : "360" }
+{ "rnr" : "360E5-101", "name" : "E5-101", "_id" : "PMAmyt5twh6n9BtQa", "bnr" : "360" }
+{ "rnr" : "325G112", "name" : "EL Datasal EL22", "_id" : "KShtrMCWtzCecejLk", "bnr" : "325" }
+{ "rnr" : "325G116", "name" : "EL Datasal G116", "_id" : "r7Wat6Ggu5tQAko3e", "bnr" : "325" }
+{ "rnr" : "325G118", "name" : "EL Datasal G118", "_id" : "e7knzJyyWJJ3YrNP4", "bnr" : "325" }
+{ "rnr" : "325G122", "name" : "EL Datasal G122", "_id" : "ogvBTeahyMjCnTqqx", "bnr" : "325" }
+{ "rnr" : "325G124", "name" : "EL Datasal G124", "_id" : "B4peuoqvfubomqqWu", "bnr" : "325" }
+{ "rnr" : "325G126", "name" : "EL Datasal G126", "_id" : "HkoqRZwnJRM4yefTm", "bnr" : "325" }
+{ "rnr" : "325G128", "name" : "EL Datasal G128", "_id" : "T3asT6mnydg2sLMnv", "bnr" : "325" }
+{ "rnr" : "326A161", "name" : "EL Rom A161", "_id" : "y4C943vwsyC2Pv7Eq", "bnr" : "326" }
+{ "rnr" : "326A293", "name" : "EL Rom A293", "_id" : "Srb7ytxsEJ7eDz6d5", "bnr" : "326" }
+{ "rnr" : "327B113", "name" : "EL Rom B113", "_id" : "jH7MzPS3Mw2Wne8Yp", "bnr" : "327" }
+{ "rnr" : "341E204", "name" : "EL Rom E204", "_id" : "X9sbeu6YDEe32fqmC", "bnr" : "341" }
+{ "rnr" : "341E304", "name" : "EL Rom E304", "_id" : "vbzhBgwk8bt9MMET7", "bnr" : "341" }
+{ "rnr" : "341F204", "name" : "EL Rom F204", "_id" : "i8d2E8i2w9QcTFoLx", "bnr" : "341" }
+{ "rnr" : "341F304", "name" : "EL Rom F304", "_id" : "NDKwrwrpek4zQCF86", "bnr" : "341" }
+{ "rnr" : "341F404", "name" : "EL Rom F404", "_id" : "Qdb7qdkkfXA8FDxHA", "bnr" : "341" }
+{ "rnr" : "325G012", "name" : "EL Rom G012", "_id" : "RtjnYncvq839naoeq", "bnr" : "325" }
+{ "rnr" : "325G022", "name" : "EL Rom G022", "_id" : "Y2uWbYm8ZAkSKpYbT", "bnr" : "325" }
+{ "rnr" : "325G026", "name" : "EL Rom G026", "_id" : "atzsyYPzxMurPcbdg", "bnr" : "325" }
+{ "rnr" : "325G034", "name" : "EL Rom G034", "_id" : "4TjaEDgnKtsFJntWF", "bnr" : "325" }
+{ "rnr" : "325G038", "name" : "EL Rom G038", "_id" : "TnDYEcTbv5Ts6AJr5", "bnr" : "325" }
+{ "rnr" : "325G138", "name" : "EL Rom G138", "_id" : "eHxi8eted9WQ2MzQk", "bnr" : "325" }
+{ "rnr" : "325G224", "name" : "EL1", "_id" : "NHTRm88Zp2pnTBoFQ", "bnr" : "325" }
+{ "rnr" : "325G212", "name" : "EL2", "_id" : "Xx7XzNsZNDu6pHyWD", "bnr" : "325" }
+{ "rnr" : "325G108", "name" : "EL21", "_id" : "q9zy9tWwKCt4fH66M", "bnr" : "325" }
+{ "rnr" : "341E404", "name" : "EL23", "_id" : "dM3eEuFhpsaBHGcHm", "bnr" : "341" }
+{ "rnr" : "325G102", "name" : "EL3", "_id" : "2n8NPk8QD2ntcXvPx", "bnr" : "325" }
+{ "rnr" : "327B110", "name" : "EL4", "_id" : "Bim5ZMN8WRaLD3shF", "bnr" : "327" }
+{ "rnr" : "325G160", "name" : "EL5", "_id" : "JTiMJoFPpDfa537Qc", "bnr" : "325" }
+{ "rnr" : "325G170", "name" : "EL6", "_id" : "FrWcC4KgHy29AC7Gm", "bnr" : "325" }
+{ "rnr" : "358211", "name" : "Elektrolab", "_id" : "XZo9C96rRnt9yWaSy", "bnr" : "358" }
+{ "rnr" : "8207351B", "name" : "ELI-laben", "_id" : "AJRgksYv6rMbXg5u9", "bnr" : "820" }
+{ "rnr" : "318152", "name" : "F1", "_id" : "WZ3i2qoWM2K9X2v6k", "bnr" : "318" }
+{ "rnr" : "319263", "name" : "F2", "_id" : "FHEY9LbvXBtqj77PE", "bnr" : "319" }
+{ "rnr" : "319213", "name" : "F3", "_id" : "26CtqDTByqFMZHftz", "bnr" : "319" }
+{ "rnr" : "319215", "name" : "F4", "_id" : "esPcmMMXYC2tkMvcB", "bnr" : "319" }
+{ "rnr" : "319258", "name" : "F6", "_id" : "xnZvG8TRWgCWbrr48", "bnr" : "319" }
+{ "rnr" : "360DU3-195", "name" : "Faunistikk lab", "_id" : "5hBfHtQJpi2hYzice", "bnr" : "360" }
+{ "rnr" : "8104509", "name" : "Fonlab", "_id" : "RLegWzSubcAmGzfJg", "bnr" : "810" }
+{ "rnr" : "329D038", "name" : "Forsøkshallen", "_id" : "feuv7aDpoEWcNrjPp", "bnr" : "329" }
+{ "rnr" : "360C3-101", "name" : "Fysikklab", "_id" : "EWgcgpKcig7SLvk8j", "bnr" : "360" }
+{ "rnr" : "306S68", "name" : "G1", "_id" : "uq3iZaGrSxeKWZBLr", "bnr" : "306" }
+{ "rnr" : "306S54", "name" : "G21", "_id" : "H2EwCDWLEhiEguza9", "bnr" : "306" }
+{ "rnr" : "8105461", "name" : "Geodatalab", "_id" : "qda45whzLxuW6jxf2", "bnr" : "810" }
+{ "rnr" : "323012", "name" : "GK1", "_id" : "QNRnDmkgdn6wf8aJB", "bnr" : "323" }
+{ "rnr" : "2-430431.03.026", "name" : "GM32", "_id" : "Jday3FwXYKq9cDRoX", "bnr" : "2-430" }
+{ "rnr" : "130128", "name" : "GU Rom 128", "_id" : "d9vqmn89wfvhp7QrD", "bnr" : "130" }
+{ "rnr" : "130129", "name" : "GU Rom 129", "_id" : "YGLZqzRMf8eb4sLNd", "bnr" : "130" }
+{ "rnr" : "130212A", "name" : "GU Rom 212A", "_id" : "YFTAihaP7TJ8XK286", "bnr" : "130" }
+{ "rnr" : "130212B", "name" : "GU Rom 212B", "_id" : "wWP3RChwCEdApMpTN", "bnr" : "130" }
+{ "rnr" : "130212C", "name" : "GU Rom 212C", "_id" : "HjgBLyej8Ws6nRJtZ", "bnr" : "130" }
+{ "rnr" : "130212D", "name" : "GU Rom 212D", "_id" : "EdwMAF2sgjQW6FHgk", "bnr" : "130" }
+{ "rnr" : "125A255", "name" : "Gunnerusrommet", "_id" : "nbcu7J7Kmo4phzhdW", "bnr" : "125" }
+{ "rnr" : "301415", "name" : "H Rom 415", "_id" : "RH3sbMRRdHmd2SBn6", "bnr" : "301" }
+{ "rnr" : "301416B", "name" : "H Rom 416B", "_id" : "YBKKxZnjjbC7KqJZk", "bnr" : "301" }
+{ "rnr" : "301417", "name" : "H Rom 417", "_id" : "WLC85oAeD7EwLGe4s", "bnr" : "301" }
+{ "rnr" : "301M68A", "name" : "H Rom M68A", "_id" : "ZryFvAFgNq3emmSnL", "bnr" : "301" }
+{ "rnr" : "301M68B", "name" : "H Rom M68B", "_id" : "HYKdRRDZq69SxTv2o", "bnr" : "301" }
+{ "rnr" : "301029A", "name" : "H029A", "_id" : "ChHRmgmsyw7Ymcmgp", "bnr" : "301" }
+{ "rnr" : "301116", "name" : "H1", "_id" : "wp2xpGGJ2zG2PArek", "bnr" : "301" }
+{ "rnr" : "301129", "name" : "H2", "_id" : "3DvfXYtGys2p7Ltab", "bnr" : "301" }
+{ "rnr" : "301340", "name" : "H3", "_id" : "5K9jLKg6icRiss4F3", "bnr" : "301" }
+{ "rnr" : "358311", "name" : "H3 Datasal 311 Gobo", "_id" : "8LGTCLMqBQzjaQ8qs", "bnr" : "358" }
+{ "rnr" : "358314", "name" : "H3 Datasal 314 Bober", "_id" : "yQE6ALmmKxd66Xr6E", "bnr" : "358" }
+{ "rnr" : "358321", "name" : "H3 Datasal 321 Moki", "_id" : "8XRGTK82YgSHrTJTg", "bnr" : "358" }
+{ "rnr" : "358324", "name" : "H3 Datasal 324 Vips", "_id" : "BRCmtxAcc7hRzy2LB", "bnr" : "358" }
+{ "rnr" : "358411", "name" : "H3 Datasal 411Rill", "_id" : "4jcx3mSQpaxTHaQhZ", "bnr" : "358" }
+{ "rnr" : "358414", "name" : "H3 Datasal 414 Gorg", "_id" : "CMucjzz8EKwEPnusw", "bnr" : "358" }
+{ "rnr" : "358421", "name" : "H3 Datasal 421 Rall", "_id" : "FybkF74M7mntQLsRK", "bnr" : "358" }
+{ "rnr" : "358424", "name" : "H3 Datasal 424 Vembi", "_id" : "myrNPTT7HjtDMXmgR", "bnr" : "358" }
+{ "rnr" : "358521", "name" : "H3 Datasal 521 Sprokkit", "_id" : "FkvhYPqWoqDNSgo6k", "bnr" : "358" }
+{ "rnr" : "358524", "name" : "H3 Datasal 524 Fraggle", "_id" : "M8YLHh5PfkfPGybqE", "bnr" : "358" }
+{ "rnr" : "358513", "name" : "H3 Rom 513", "_id" : "nixdWM6hk2j3BePXZ", "bnr" : "358" }
+{ "rnr" : "850A223", "name" : "Idrettslab", "_id" : "xKxxW932yBucZ6W3g", "bnr" : "850" }
+{ "rnr" : "078B116", "name" : "JB10 Musikk", "_id" : "HYbFXkbFudzNAi7p9", "bnr" : "078" }
+{ "rnr" : "078B116A", "name" : "JB11 Flerbruk", "_id" : "WuKhrPfzqWuhgciZQ", "bnr" : "078" }
+{ "rnr" : "078B122", "name" : "JB122", "_id" : "3yzXTPYkfDQbxr9Hq", "bnr" : "078" }
+{ "rnr" : "078B123", "name" : "JB123", "_id" : "H6jtiaJMp8Wz94BhA", "bnr" : "078" }
+{ "rnr" : "078B124", "name" : "JB124", "_id" : "QCgnW2geQgLPaw5Q6", "bnr" : "078" }
+{ "rnr" : "078B267", "name" : "JB20", "_id" : "AGZsPFXZ7orqvwqB3", "bnr" : "078" }
+{ "rnr" : "078B268", "name" : "JB21", "_id" : "qn9kw6hivRMgvi4ng", "bnr" : "078" }
+{ "rnr" : "078B276", "name" : "JB22", "_id" : "PMC9CkeeF3xeJz5CE", "bnr" : "078" }
+{ "rnr" : "078B264", "name" : "JB264", "_id" : "szvpF8mDp8A8qnvEj", "bnr" : "078" }
+{ "rnr" : "078B266", "name" : "JB266", "_id" : "craTEKS69LNYc5kfc", "bnr" : "078" }
+{ "rnr" : "078B363", "name" : "JB30", "_id" : "fNDCw6v4zKrLGQ5a4", "bnr" : "078" }
+{ "rnr" : "078B372", "name" : "JB31", "_id" : "au4oHz9Jjn23eTeQ2", "bnr" : "078" }
+{ "rnr" : "078B362", "name" : "JB362", "_id" : "qzAcPf8T5RtDYDr3q", "bnr" : "078" }
+{ "rnr" : "078B367", "name" : "JB367", "_id" : "fvWyDWCECsa8hvATj", "bnr" : "078" }
+{ "rnr" : "078B368", "name" : "JB368", "_id" : "BKNjxibREJLYeo9Nw", "bnr" : "078" }
+{ "rnr" : "078B369", "name" : "JB369", "_id" : "bzDfriYe35Q9Gaykp", "bnr" : "078" }
+{ "rnr" : "078B370", "name" : "JB370", "_id" : "R2SmYMrfGsRdknPfn", "bnr" : "078" }
+{ "rnr" : "078B425", "name" : "JB40", "_id" : "GdLnHuNGTmHTb828H", "bnr" : "078" }
+{ "rnr" : "078B407", "name" : "JB41", "_id" : "aRpc8TgeDqhfGCisP", "bnr" : "078" }
+{ "rnr" : "078B432", "name" : "JB432", "_id" : "ihCnEZY5a2ipJRfs3", "bnr" : "078" }
+{ "rnr" : "078B433", "name" : "JB433", "_id" : "dhu8s9N5tq7tESKy5", "bnr" : "078" }
+{ "rnr" : "078B434", "name" : "JB434", "_id" : "QEYJ6HDpGtaBb6BrZ", "bnr" : "078" }
+{ "rnr" : "078B435", "name" : "JB435", "_id" : "8eCmSernHzHq4bFwt", "bnr" : "078" }
+{ "rnr" : "078C041", "name" : "JC1", "_id" : "zQx7xZfWRsgCGH2uM", "bnr" : "078" }
+{ "rnr" : "078C160", "name" : "JC12", "_id" : "kPXqbLtMf9QS2crBC", "bnr" : "078" }
+{ "rnr" : "078C161", "name" : "JC13", "_id" : "xj73cctABFnuCsWe3", "bnr" : "078" }
+{ "rnr" : "078C211A", "name" : "JC23 Realfag", "_id" : "qfCvmYX6CfHbsEQae", "bnr" : "078" }
+{ "rnr" : "078D033", "name" : "JD2", "_id" : "C7qPZ4PTvwaer2rKH", "bnr" : "078" }
+{ "rnr" : "3144.171", "name" : "K 4.171", "_id" : "5t4ZJe4kaCr7spew8", "bnr" : "314" }
+{ "rnr" : "3144.172", "name" : "K 4.172", "_id" : "XPDXMaMX3TPsjqwhv", "bnr" : "314" }
+{ "rnr" : "3144.173", "name" : "K 4.173", "_id" : "XiriYkDZ8xrC4Jwuo", "bnr" : "314" }
+{ "rnr" : "315108", "name" : "K Datasal Alkymi (315.108)", "_id" : "R8xfNdPgjQLt6cr6S", "bnr" : "315" }
+{ "rnr" : "3144.108", "name" : "K26", "_id" : "gi8su65WiXWo8jdpu", "bnr" : "314" }
+{ "rnr" : "311105", "name" : "K27", "_id" : "jdz2zcqEHKY8zfBCx", "bnr" : "311" }
+{ "rnr" : "3144.119", "name" : "K4-119", "_id" : "fgHzCxHSQr8Ekt4zQ", "bnr" : "314" }
+{ "rnr" : "3144.434", "name" : "K4-434", "_id" : "rtWXF24ofLFBQevRS", "bnr" : "314" }
+{ "rnr" : "315151", "name" : "K5", "_id" : "b4T8uncQK2YM955gK", "bnr" : "315" }
+{ "rnr" : "315239", "name" : "K5-239", "_id" : "RBLcg5QkTRsHoXSSK", "bnr" : "315" }
+{ "rnr" : "315201", "name" : "K5-201", "_id" : "KoSeazbEF62EDiTt4", "bnr" : "315" }
+{ "rnr" : "315208", "name" : "K5-208", "_id" : "9sBYD2rzX2GQiR4Zd", "bnr" : "315" }
+{ "rnr" : "2-240241.06.019", "name" : "KBM63", "_id" : "3boiqeaKuYx96xrLz", "bnr" : "2-240" }
+{ "rnr" : "075301", "name" : "KIT Rom 301", "_id" : "3cLSK7oNDTBbrn47i", "bnr" : "075" }
+{ "rnr" : "075302", "name" : "KIT Rom 302", "_id" : "XWdeeZeBswxDs9d5y", "bnr" : "075" }
+{ "rnr" : "075613", "name" : "KIT Rom 613", "_id" : "bBNxGPtezwczrZtNb", "bnr" : "075" }
+{ "rnr" : "354151", "name" : "KJL1", "_id" : "r5iTgwPoJLEA6KGBn", "bnr" : "354" }
+{ "rnr" : "354113", "name" : "KJL2", "_id" : "hSkRWjBw8Kf5tD8qw", "bnr" : "354" }
+{ "rnr" : "354142", "name" : "KJL21", "_id" : "MwjyqsiRLGd9aFSz7", "bnr" : "354" }
+{ "rnr" : "354143", "name" : "KJL22", "_id" : "YPkwPH9W4mT9NDKBa", "bnr" : "354" }
+{ "rnr" : "354242", "name" : "KJL23", "_id" : "NRbtyoxQMShpXwmzj", "bnr" : "354" }
+{ "rnr" : "354243", "name" : "KJL24", "_id" : "j3xf8peFsfsxHPq8d", "bnr" : "354" }
+{ "rnr" : "354252", "name" : "KJL3", "_id" : "r77xfE8gWgnFJnhpC", "bnr" : "354" }
+{ "rnr" : "354251", "name" : "KJL4", "_id" : "jbMt44y4RYinov7wj", "bnr" : "354" }
+{ "rnr" : "354213", "name" : "KJL5", "_id" : "FxGwXN7zqri6p58Ao", "bnr" : "354" }
+{ "rnr" : "3372-267", "name" : "L-Big Ben (dataarb)", "_id" : "xeWvBBBXcZtYHBZyE", "bnr" : "337" }
+{ "rnr" : "3372-271", "name" : "L-Notre Dame (dataarb)", "_id" : "JWHoszDKSyfaFnbX5", "bnr" : "337" }
+{ "rnr" : "3372-251", "name" : "L-Zevs (dataarb)", "_id" : "gY5dB2GpKCnvzboY2", "bnr" : "337" }
+{ "rnr" : "3371-320", "name" : "L1-320", "_id" : "RzmC3a2Eof4bkCqnB", "bnr" : "337" }
+{ "rnr" : "3371-225", "name" : "L11", "_id" : "4cR7kyHjWJ2qpHLPj", "bnr" : "337" }
+{ "rnr" : "8104513", "name" : "Lingdatalab", "_id" : "YPE9rEpXAgMQjSo88", "bnr" : "810" }
+{ "rnr" : "8104516A", "name" : "Linlab", "_id" : "WcQeFbf3ztD4b6KSc", "bnr" : "810" }
+{ "rnr" : "2-230231.02.002", "name" : "LK21", "_id" : "XtqMhqKcWssgdxTbQ", "bnr" : "2-230" }
+{ "rnr" : "2-230232.03.043", "name" : "LM31", "_id" : "gACWjcSASSyLkdPZx", "bnr" : "2-230" }
+{ "rnr" : "2-230231.02.008", "name" : "LS21", "_id" : "rAqWQix4iGqDh6r6C", "bnr" : "2-230" }
+{ "rnr" : "2-230231.04.002", "name" : "LS41", "_id" : "hwXJ6ZWmkCpQGQSZe", "bnr" : "2-230" }
+{ "rnr" : "2-230233.04.001", "name" : "LS42", "_id" : "KKBv6wAESDFpX9us2", "bnr" : "2-230" }
+{ "rnr" : "332007", "name" : "MA23", "_id" : "G3CcYSR5ShX43H7ZR", "bnr" : "332" }
+{ "rnr" : "332003", "name" : "MA24", "_id" : "oZaXabuntyXnuKvwq", "bnr" : "332" }
+{ "rnr" : "8104407", "name" : "Mac-datalab", "_id" : "D5GwQueRFkgPY8FNz", "bnr" : "810" }
+{ "rnr" : "360D1-156", "name" : "Miljøtoksikologilab", "_id" : "54uZ5Pv4ia2BNqQjr", "bnr" : "360" }
+{ "rnr" : "061308", "name" : "MIT F308", "_id" : "3SNoZ9zGs8qSqipuT", "bnr" : "061" }
+{ "rnr" : "061325", "name" : "MIT F325 Lydstudio", "_id" : "hEodypYTiPkd7nxgb", "bnr" : "061" }
+{ "rnr" : "061331", "name" : "MIT F331", "_id" : "8QWtrBvR3AdFqYih7", "bnr" : "061" }
+{ "rnr" : "061341", "name" : "MIT F341", "_id" : "mPq3MTWuSn2PXqf6K", "bnr" : "061" }
+{ "rnr" : "061343", "name" : "MIT F343", "_id" : "zAPHj5BTeyxv9zepf", "bnr" : "061" }
+{ "rnr" : "065203", "name" : "MIT K203", "_id" : "dCEY3M53bFmY5SBa8", "bnr" : "065" }
+{ "rnr" : "065302", "name" : "MIT K302", "_id" : "8STtSfjcWoHBJaiMA", "bnr" : "065" }
+{ "rnr" : "065303", "name" : "MIT K303", "_id" : "e9iKuG4jS7TNSbEY4", "bnr" : "065" }
+{ "rnr" : "065A101", "name" : "MIT KA101", "_id" : "GTsQ27fq4WFkAELrA", "bnr" : "065" }
+{ "rnr" : "065A401", "name" : "MIT KA401", "_id" : "KvxiEcFLXYXAn5z3q", "bnr" : "065" }
+{ "rnr" : "060050", "name" : "MIT Kammersalen", "_id" : "w7maGjYfDwzZXRz7Z", "bnr" : "060" }
+{ "rnr" : "060629", "name" : "MIT Kantine innerst", "_id" : "NaSyoA67EaupwLmPv", "bnr" : "060" }
+{ "rnr" : "060628", "name" : "MIT Kantine ytterst", "_id" : "78mEYPkpDBsSa3h6F", "bnr" : "060" }
+{ "rnr" : "062513", "name" : "MIT KJ513", "_id" : "hDzAWmQpuGtFKQQvD", "bnr" : "062" }
+{ "rnr" : "060401", "name" : "MIT OK401", "_id" : "tQz94GjkZJqnEC2D9", "bnr" : "060" }
+{ "rnr" : "060402", "name" : "MIT OK402", "_id" : "hkWFeeJbuBbn4Fmmr", "bnr" : "060" }
+{ "rnr" : "060403", "name" : "MIT OK403", "_id" : "Ykp8XKytynmCgyRnr", "bnr" : "060" }
+{ "rnr" : "060404", "name" : "MIT OK404", "_id" : "Luifi3Rjx6kcHexdR", "bnr" : "060" }
+{ "rnr" : "060510", "name" : "MIT OK510", "_id" : "53nXZ43X8JpiykMXr", "bnr" : "060" }
+{ "rnr" : "060527", "name" : "MIT OK527", "_id" : "jMwLfYExgvSRJAYMM", "bnr" : "060" }
+{ "rnr" : "060531", "name" : "MIT OK531", "_id" : "6unhwBBnAk3xDhyBD", "bnr" : "060" }
+{ "rnr" : "060618", "name" : "MIT OK618", "_id" : "EsSfctP3mDgkKH34b", "bnr" : "060" }
+{ "rnr" : "062403", "name" : "MIT Orgelsalen", "_id" : "y8XkdkzbuB5s74Yup", "bnr" : "062" }
+{ "rnr" : "062314", "name" : "MIT Rom 314", "_id" : "DpJtpuEhBMiMsc5Ap", "bnr" : "062" }
+{ "rnr" : "061322", "name" : "MIT Rom F322", "_id" : "GYWizbtg5g9FscjFh", "bnr" : "061" }
+{ "rnr" : "325G134", "name" : "Mortensine", "_id" : "hAmah35sAZ24frLcN", "bnr" : "325" }
+{ "rnr" : "2202.302", "name" : "MTM1", "_id" : "rSm5nLgRmKdrcT6Ye", "bnr" : "220" }
+{ "rnr" : "2202.102", "name" : "MTS11", "_id" : "3PqpFrSYrneRhPFAC", "bnr" : "220" }
+{ "rnr" : "2202.202", "name" : "MTS21", "_id" : "KD2CzxMncQJqybB5k", "bnr" : "220" }
+{ "rnr" : "2-130121.U1.002", "name" : "NSU1", "_id" : "4fuGz6svyv8Mg7jTu", "bnr" : "2-130" }
+{ "rnr" : "2-130121.U1.006", "name" : "NSU2", "_id" : "sedyeSfugfb9z7vQy", "bnr" : "2-130" }
+{ "rnr" : "444125", "name" : "P1", "_id" : "knKHMhb5qxLwWXg5n", "bnr" : "444" }
+{ "rnr" : "443167", "name" : "P10", "_id" : "xXrJNzYrCFppGAHvb", "bnr" : "443" }
+{ "rnr" : "443169", "name" : "P11", "_id" : "DN56BRzgfZidWYEk8", "bnr" : "443" }
+{ "rnr" : "443170", "name" : "P12", "_id" : "m6sQrWsSi7yGWkKAn", "bnr" : "443" }
+{ "rnr" : "443171", "name" : "P13", "_id" : "mwuXspAqeuYdyNLL4", "bnr" : "443" }
+{ "rnr" : "444136", "name" : "P2", "_id" : "eLvvrCzMG5ZEo5tTm", "bnr" : "444" }
+{ "rnr" : "3652104", "name" : "PFI2104", "_id" : "5KNjT2Z7JuFkm4gzy", "bnr" : "365" }
+{ "rnr" : "360D1-114", "name" : "Plantefysiologilab", "_id" : "3hJgeew6EqoKLFZQj", "bnr" : "360" }
+{ "rnr" : "360E2-100", "name" : "R Berzelius (360.E2-100)", "_id" : "wdZNNkNP5RtMGF2xB", "bnr" : "360" }
+{ "rnr" : "360D1-161", "name" : "R Botanikk 2 (360.D1-161)", "_id" : "cojFpLwFRgh6F4dXw", "bnr" : "360" }
+{ "rnr" : "360D1-163", "name" : "R Botanikk 3 (360.D1-163)", "_id" : "c7sESnNCnFx3ffEG8", "bnr" : "360" }
+{ "rnr" : "360D4-132", "name" : "R D4-132", "_id" : "s2y6v9tLmFFAMxEiP", "bnr" : "360" }
+{ "rnr" : "360BU2-117", "name" : "R Datasal BU2-117", "_id" : "pMsKe2TGhc5NJYuiE", "bnr" : "360" }
+{ "rnr" : "360BU2-123", "name" : "R Datasal BU2-123", "_id" : "X4rcMmeuKNyw8AseT", "bnr" : "360" }
+{ "rnr" : "360BU2-153", "name" : "R Datasal BU2-153", "_id" : "ppc5XbdLy4wrYibgs", "bnr" : "360" }
+{ "rnr" : "360C1-126", "name" : "R Datasal C1-126", "_id" : "h9iXoGj9FouPpNxuQ", "bnr" : "360" }
+{ "rnr" : "360D1-102", "name" : "R Datasal D1-102", "_id" : "CRPiW6RyGf7B6iKKY", "bnr" : "360" }
+{ "rnr" : "360D1-185", "name" : "R Datasal D1-185", "_id" : "NrPpj56Q6Ws4BrZ3J", "bnr" : "360" }
+{ "rnr" : "360D2-196", "name" : "R Datasal D2-196", "_id" : "fDxg42pSYZ76fzRHe", "bnr" : "360" }
+{ "rnr" : "360D3-197", "name" : "R Datasal D3-197", "_id" : "oriTPH5uKiLJmxuMt", "bnr" : "360" }
+{ "rnr" : "360BU2-159", "name" : "R Datasal Meru", "_id" : "LZoJyBHvhWGchQp5w", "bnr" : "360" }
+{ "rnr" : "360E5-103", "name" : "R E5-103", "_id" : "ggLrqtFKum3M9rk2z", "bnr" : "360" }
+{ "rnr" : "360EU2-145", "name" : "R EU2-145", "_id" : "NPTRrEqxrun42vz9f", "bnr" : "360" }
+{ "rnr" : "360E2-125B", "name" : "R Guldberg og Waage", "_id" : "mvF2ZkihX7EZifNP9", "bnr" : "360" }
+{ "rnr" : "360D2-151", "name" : "R Hassel (360.D2-151)", "_id" : "84hZ5Fa9DuKEqv6QE", "bnr" : "360" }
+{ "rnr" : "360D2-147", "name" : "R Lavoisier (360.D2-147)", "_id" : "4huCm9BZbMdbuf4Ya", "bnr" : "360" }
+{ "rnr" : "360B1-120", "name" : "R Rom B1-120", "_id" : "d4LAriXZWKDiALgRE", "bnr" : "360" }
+{ "rnr" : "360B1-122", "name" : "R Rom B1-122", "_id" : "2mLvmfNquXxEDqXxd", "bnr" : "360" }
+{ "rnr" : "360B1-124", "name" : "R Rom B1-124", "_id" : "WJTNcNr2isJa93qcA", "bnr" : "360" }
+{ "rnr" : "360B1-126", "name" : "R Rom B1-126", "_id" : "cnuJQCR59LupNrRPL", "bnr" : "360" }
+{ "rnr" : "360B1-177C", "name" : "R Rom B1-177C", "_id" : "WKRrpuoLXiGBrTzQB", "bnr" : "360" }
+{ "rnr" : "360B1-183C", "name" : "R Rom B1-183C", "_id" : "P6h5hSJZWyM6HTQbq", "bnr" : "360" }
+{ "rnr" : "360BU1-104", "name" : "R Rom BU1-104", "_id" : "ChXgSDs6XD6bB7jtM", "bnr" : "360" }
+{ "rnr" : "360BU1-106", "name" : "R Rom BU1-106", "_id" : "63RtKJELHmWEJpWaJ", "bnr" : "360" }
+{ "rnr" : "360BU1-108", "name" : "R Rom BU1-108", "_id" : "6mv9XTGsGkPQw8cGi", "bnr" : "360" }
+{ "rnr" : "360BU1-110", "name" : "R Rom BU1-110", "_id" : "JxNGFs8zgTvjAkFBD", "bnr" : "360" }
+{ "rnr" : "360D5-106", "name" : "R Rom D5-106", "_id" : "rNBDtbjHiSk9EPHgX", "bnr" : "360" }
+{ "rnr" : "360D5-175", "name" : "R Rom D5-175", "_id" : "oLMvPbRYeuWSJWHi4", "bnr" : "360" }
+{ "rnr" : "360B2-126", "name" : "R Wöhler (360.B2-126)", "_id" : "rpLZbvaZ8jc6qefu8", "bnr" : "360" }
+{ "rnr" : "360EU2-114", "name" : "R Zoo-1 (360.EU2-114)", "_id" : "QJyiDiT5QiYtYKotS", "bnr" : "360" }
+{ "rnr" : "360DU2-182", "name" : "R Zoo-2 (360.DU2-182)", "_id" : "KQJxoJMCfxWjFJCTQ", "bnr" : "360" }
+{ "rnr" : "360EU2-148", "name" : "R Zoo-3 (360.EU2-148)", "_id" : "m6CiYaMwgBPt94RQH", "bnr" : "360" }
+{ "rnr" : "360EU2-113", "name" : "R Zoo-4 (360.EU2-113)", "_id" : "Lz9nfxKS55s27o6Bs", "bnr" : "360" }
+{ "rnr" : "360EU2-134", "name" : "R Zoo-5 (360.EU2-134)", "_id" : "s5X9o3JoGwtwwHbmC", "bnr" : "360" }
+{ "rnr" : "360EU2-136", "name" : "R Zoo-6 (360.EU2-136)", "_id" : "Q4TT5DGL8e2JhNbTN", "bnr" : "360" }
+{ "rnr" : "360CU1-101", "name" : "R1", "_id" : "CtgydiGcCmPdSxYSn", "bnr" : "360" }
+{ "rnr" : "360D5-171", "name" : "R10", "_id" : "ivrJdC6qgTc4J6zyC", "bnr" : "360" }
+{ "rnr" : "360CU1-100", "name" : "R2", "_id" : "z44vWCZeJBsKyrdLT", "bnr" : "360" }
+{ "rnr" : "360DU2-103", "name" : "R20", "_id" : "yqsW2wTmQYa7SE87e", "bnr" : "360" }
+{ "rnr" : "360AU2-101", "name" : "R21", "_id" : "R85NYtGoCwucfMP5u", "bnr" : "360" }
+{ "rnr" : "360DU1-183", "name" : "R3", "_id" : "dc6vhGZbma3cS9G4k", "bnr" : "360" }
+{ "rnr" : "360DU1-105", "name" : "R30", "_id" : "F3suwa9wXcTgNZTD2", "bnr" : "360" }
+{ "rnr" : "360EU1-109", "name" : "R4", "_id" : "rzR72wj3CtgwSsDpC", "bnr" : "360" }
+{ "rnr" : "360D1-148", "name" : "R40", "_id" : "pK2zRSRrGPjQBhgLQ", "bnr" : "360" }
+{ "rnr" : "360D1-150", "name" : "R41", "_id" : "rqc2qNPKH2hNCN2Lk", "bnr" : "360" }
+{ "rnr" : "360BU1-100", "name" : "R5", "_id" : "zh4BwcNKj62YkzdaB", "bnr" : "360" }
+{ "rnr" : "360A2-145", "name" : "R50", "_id" : "NnBTZTJSbf4gYWndm", "bnr" : "360" }
+{ "rnr" : "360A2-133", "name" : "R51", "_id" : "S7DHBBNkxwrhtjbLT", "bnr" : "360" }
+{ "rnr" : "360A2-100", "name" : "R54", "_id" : "kFErTjbBxjt9YwBDL", "bnr" : "360" }
+{ "rnr" : "360A2-124", "name" : "R57", "_id" : "oduqKzmrXqXtqwBip", "bnr" : "360" }
+{ "rnr" : "360B2-105", "name" : "R59", "_id" : "KLrCPaHDe3XmkA4HX", "bnr" : "360" }
+{ "rnr" : "360BU1-102", "name" : "R6", "_id" : "dpSeXJKGWDhao7ZHB", "bnr" : "360" }
+{ "rnr" : "360E3-103", "name" : "R60", "_id" : "pFa9Mhd8sK6ZvCnAe", "bnr" : "360" }
+{ "rnr" : "360AU1-105", "name" : "R7", "_id" : "kXtnvhcHzPCNCXHDj", "bnr" : "360" }
+{ "rnr" : "360A4-138", "name" : "R71", "_id" : "htoJzrriT6Wp3wY44", "bnr" : "360" }
+{ "rnr" : "360A4-142", "name" : "R72", "_id" : "PdQYhREzkBSovuH7Y", "bnr" : "360" }
+{ "rnr" : "360E4-103", "name" : "R73", "_id" : "npGwwkpkDZXZv3ao7", "bnr" : "360" }
+{ "rnr" : "360AU1-103", "name" : "R8", "_id" : "GfCtFREaQQeh5rkhS", "bnr" : "360" }
+{ "rnr" : "360D5-133", "name" : "R80", "_id" : "cSMqwTnhoY6zgQ64x", "bnr" : "360" }
+{ "rnr" : "360D5-137", "name" : "R81", "_id" : "RoR8YZrXKL69kYTBS", "bnr" : "360" }
+{ "rnr" : "360AU1-101", "name" : "R9", "_id" : "KHTLthvrjvDe83rL6", "bnr" : "360" }
+{ "rnr" : "360DU1-146", "name" : "R90", "_id" : "jsdqZ7ausqCxJdT6n", "bnr" : "360" }
+{ "rnr" : "360DU1-145", "name" : "R91", "_id" : "8NJavQhizCpYdjGki", "bnr" : "360" }
+{ "rnr" : "360DU1-102", "name" : "R92", "_id" : "Ca8SNZDh9mXPKBgor", "bnr" : "360" }
+{ "rnr" : "360DU1-104", "name" : "R93", "_id" : "C6Fcq54Tar6Gun7jP", "bnr" : "360" }
+{ "rnr" : "LUCAS1", "name" : "Rom 1", "_id" : "CfpgTC9CoFJCAxyip", "bnr" : "LUCAS" }
+{ "rnr" : "311101", "name" : "Rom 101", "_id" : "4F9RXtAjiu8jqnXmS", "bnr" : "311" }
+{ "rnr" : "823103", "name" : "Rom 103", "_id" : "LaGX8sk8TmYPpRCMY", "bnr" : "823" }
+{ "rnr" : "83012301", "name" : "Rom 12301", "_id" : "XL4f9HLSy3A7a3RKQ", "bnr" : "830" }
+{ "rnr" : "83012425", "name" : "Rom 12425", "_id" : "QKL2RbmARcD7rWchC", "bnr" : "830" }
+{ "rnr" : "83012587", "name" : "Rom 12587", "_id" : "aRyrPkkpDD4xaKokQ", "bnr" : "830" }
+{ "rnr" : "8101329", "name" : "Rom 1329", "_id" : "FqjXCjRSwx8DZNT65", "bnr" : "810" }
+{ "rnr" : "8101331", "name" : "Rom 1331", "_id" : "KRNW9RoR8EFYTL2N5", "bnr" : "810" }
+{ "rnr" : "311145", "name" : "Rom 145", "_id" : "6ECcHcnbApLfEaRtf", "bnr" : "311" }
+{ "rnr" : "LUCAS2", "name" : "Rom 2", "_id" : "LwBkJmMTj2N9zip5y", "bnr" : "LUCAS" }
+{ "rnr" : "025202", "name" : "Rom 202", "_id" : "DapoQDbckNNwaLu6t", "bnr" : "025" }
+{ "rnr" : "025207", "name" : "Rom 207", "_id" : "veWDQ6knNMqqs5DpR", "bnr" : "025" }
+{ "rnr" : "025209", "name" : "Rom 209", "_id" : "6ZnaD2XKubF5kMi72", "bnr" : "025" }
+{ "rnr" : "8104304B", "name" : "Rom 4304B", "_id" : "NhcdkG9rLn5EQ8jBS", "bnr" : "810" }
+{ "rnr" : "8106384", "name" : "Rom 6384 (6B)", "_id" : "2awC8Z27sNnHNTKz7", "bnr" : "810" }
+{ "rnr" : "301220", "name" : "Rådssalen", "_id" : "mYHzAu5ASCnp8BzNh", "bnr" : "301" }
+{ "rnr" : "321318", "name" : "S Datasal 318 SBI", "_id" : "S7YvBNNcfA9YN5qQF", "bnr" : "321" }
+{ "rnr" : "321546", "name" : "S Datasal 546 SBI", "_id" : "H6L3zKriTRrXoH7ht", "bnr" : "321" }
+{ "rnr" : "321265", "name" : "S Rom 265", "_id" : "zFaHTPKDKGDFbDa4m", "bnr" : "321" }
+{ "rnr" : "321322B", "name" : "S Rom 322B", "_id" : "z3F9BDFXqd8YHrauE", "bnr" : "321" }
+{ "rnr" : "321322C", "name" : "S Rom 322C", "_id" : "GgkkgDRGjEkim4LDa", "bnr" : "321" }
+{ "rnr" : "321322F", "name" : "S Rom 322F", "_id" : "MzAAu8xvykeAP8pqc", "bnr" : "321" }
+{ "rnr" : "322656", "name" : "S Rom 656", "_id" : "q2KcZdp9eu6zs7P8b", "bnr" : "322" }
+{ "rnr" : "322734", "name" : "S Rom 734", "_id" : "iLKsakzqjYAXmYZdu", "bnr" : "322" }
+{ "rnr" : "322822", "name" : "S Rom 822", "_id" : "RfBsobDEoPw7wf5AA", "bnr" : "322" }
+{ "rnr" : "322922", "name" : "S Rom 922", "_id" : "72KQE4ofHfGS32Bnr", "bnr" : "322" }
+{ "rnr" : "321117", "name" : "S1", "_id" : "NYEejaCxabdHFcZmC", "bnr" : "321" }
+{ "rnr" : "321116", "name" : "S2", "_id" : "ZPzsfj5f3gsRdkgPz", "bnr" : "321" }
+{ "rnr" : "322255B", "name" : "S21", "_id" : "z2Z4YwrsuNuaAkaEx", "bnr" : "322" }
+{ "rnr" : "322255C", "name" : "S22", "_id" : "wjg7SKhWhrxHJNdHE", "bnr" : "322" }
+{ "rnr" : "322260A", "name" : "S23", "_id" : "AtR3fdbH5gLuGyeYE", "bnr" : "322" }
+{ "rnr" : "322260B", "name" : "S24", "_id" : "XTEokzr6Ym3N9EBE3", "bnr" : "322" }
+{ "rnr" : "321113", "name" : "S3", "_id" : "B8uCzGk8WANGZqbXp", "bnr" : "321" }
+{ "rnr" : "321111", "name" : "S4", "_id" : "QxZZYMpDJkDG6t6qj", "bnr" : "321" }
+{ "rnr" : "322115", "name" : "S5", "_id" : "e5QHjZYEKqQYz7wXT", "bnr" : "322" }
+{ "rnr" : "322146", "name" : "S6", "_id" : "ADv4AczNyY9H5xsPL", "bnr" : "322" }
+{ "rnr" : "322105", "name" : "S7", "_id" : "NkZdn4B6Gwa5bbNoW", "bnr" : "322" }
+{ "rnr" : "322156", "name" : "S8", "_id" : "EDEQjrGXZ7FA7Psp6", "bnr" : "" }
+{ "rnr" : "301314", "name" : "Sal 314", "_id" : "gGwSEzfaZzkhbLNBk", "bnr" : "301" }
+{ "rnr" : "325G203", "name" : "Sanntidssalen (G203/G204)", "_id" : "57gQAN8vNoJmJXrAi", "bnr" : "325" }
+{ "rnr" : "322215", "name" : "SB2-215", "_id" : "PMQzZzQ3gRCXHMejF", "bnr" : "322" }
+{ "rnr" : "82010311", "name" : "Språklab", "_id" : "xf8WgzznFchvA2YzJ", "bnr" : "820" }
+{ "rnr" : "850DIH1", "name" : "Storhall del 1", "_id" : "sR38xKhSnrMJn3LuF", "bnr" : "850" }
+{ "rnr" : "850DIH2", "name" : "Storhall del 2", "_id" : "HgT4c44RTNwvS9zsi", "bnr" : "850" }
+{ "rnr" : "335217", "name" : "Storhallen", "_id" : "D5Fbbiv5M7AQLpRM5", "bnr" : "335" }
+{ "rnr" : "8208384", "name" : "Studio (dra)", "_id" : "cpPZSSHMAZtKg4W4o", "bnr" : "820" }
+{ "rnr" : "301224", "name" : "Styrerommet", "_id" : "ojFDjDSgxaH6u6hfG", "bnr" : "301" }
+{ "rnr" : "135101", "name" : "Suhm-aud", "_id" : "znbNt8rPa8DPtTMD3", "bnr" : "135" }
+{ "rnr" : "639A2.022", "name" : "T Rom A2.022", "_id" : "RYy643pKgbgk3ktwT", "bnr" : "639" }
+{ "rnr" : "639F1.148A", "name" : "T Rom F1.148A", "_id" : "eq4Hh738AtqL9gAKB", "bnr" : "639" }
+{ "rnr" : "639F1.148B", "name" : "T Rom F1.148B", "_id" : "ztdxPwzhGfYx4zyHQ", "bnr" : "639" }
+{ "rnr" : "639F1.188", "name" : "T Rom F1.188", "_id" : "fPQJQ9z3kYzZZvC6C", "bnr" : "639" }
+{ "rnr" : "639G1.101", "name" : "T Rom G1.101", "_id" : "4mQo6m2jpsaKGbqDR", "bnr" : "639" }
+{ "rnr" : "639G1.102", "name" : "T Rom G1.102", "_id" : "PGA5jk8zcrHv6KrMu", "bnr" : "639" }
+{ "rnr" : "639G1.103", "name" : "T Rom G1.103", "_id" : "HxQh66sWRemffo7uG", "bnr" : "639" }
+{ "rnr" : "639G1.104", "name" : "T Rom G1.104", "_id" : "WQRT5jHK8D5JHNPSo", "bnr" : "639" }
+{ "rnr" : "639G1.105", "name" : "T Rom G1.105", "_id" : "txNmSYddMpuiwGAnA", "bnr" : "639" }
+{ "rnr" : "639G1.106", "name" : "T Rom G1.106", "_id" : "82eQznHgL4h9xiYz2", "bnr" : "639" }
+{ "rnr" : "639G1.107", "name" : "T Rom G1.107", "_id" : "7vvgtdGXQXs6qY5xv", "bnr" : "639" }
+{ "rnr" : "639G1.108", "name" : "T Rom G1.108", "_id" : "C5qT9kCkoNJmvFBWY", "bnr" : "639" }
+{ "rnr" : "639A1.002", "name" : "T1", "_id" : "SxKZGfDQvfmrrismQ", "bnr" : "639" }
+{ "rnr" : "639B1.054", "name" : "T2", "_id" : "vHavKGcS9gQ5LbrZt", "bnr" : "639" }
+{ "rnr" : "639A2.002", "name" : "T3", "_id" : "EgqHEeyTBqkg9vddY", "bnr" : "639" }
+{ "rnr" : "639A2.026", "name" : "T4", "_id" : "YeCEyNokG2FJHoFbh", "bnr" : "639" }
+{ "rnr" : "639C2.057", "name" : "T6", "_id" : "nxjrDR5eaNJ27YRtA", "bnr" : "639" }
+{ "rnr" : "639H3.213", "name" : "T7", "_id" : "MR2Zw9Nma7XGqYCZF", "bnr" : "639" }
+{ "rnr" : "639E1.106", "name" : "T8", "_id" : "race7xg9B6HxoCmvh", "bnr" : "639" }
+{ "rnr" : "0802.9", "name" : "TBS Rom 2.9", "_id" : "22KpovbZsByMQ3NiC", "bnr" : "080" }
+{ "rnr" : "301226", "name" : "Totalrommet", "_id" : "QuCyhYwJ2KkiKRzX7", "bnr" : "301" }
+{ "rnr" : "125A064", "name" : "Trykkeriet", "_id" : "n2izCbGpHvWatrhwj", "bnr" : "125" }
+{ "rnr" : "302B126", "name" : "VA B126", "_id" : "Grngx2zX9d9PTxDof", "bnr" : "302" }
+{ "rnr" : "302B435", "name" : "VA2", "_id" : "b6uFmvHMMtvkoKJii", "bnr" : "302" }
+{ "rnr" : "307238", "name" : "VE PU-LAB", "_id" : "S45C5TetEE4LKB3LB", "bnr" : "307" }
+{ "rnr" : "307245", "name" : "VE Rom 245", "_id" : "TuR5tgPgfRbE7TaNh", "bnr" : "307" }
+{ "rnr" : "307245B", "name" : "VE Rom 245B", "_id" : "n368BkSrFfnrrXSDs", "bnr" : "307" }
+{ "rnr" : "307M36B", "name" : "VE Rom M36B", "_id" : "hSz7dyot26B7teT8f", "bnr" : "307" }
+{ "rnr" : "307205", "name" : "VE1", "_id" : "4qe7RkmSyiqN9Sr3G", "bnr" : "307" }
+{ "rnr" : "307245A", "name" : "VE21", "_id" : "wyXw2E6vXP9vDPvpT", "bnr" : "307" }
+{ "rnr" : "307234", "name" : "VE22", "_id" : "TGHeutK7PWbwQW5fi", "bnr" : "307" }
+{ "rnr" : "4363.305", "name" : "VG Rom 3.305", "_id" : "HKgBGzc2yb9Yy8BMh", "bnr" : "436" }
+{ "rnr" : "4363.314", "name" : "VG Rom 3.314", "_id" : "iXTKk6vqa524nYeXb", "bnr" : "436" }
+{ "rnr" : "4363.315", "name" : "VG Rom 3.315", "_id" : "Xt6zTNmm2CEFfk8h9", "bnr" : "436" }
+{ "rnr" : "446315", "name" : "VG Rom 315", "_id" : "imdzDLvk9A6j8vNgS", "bnr" : "446" }
+{ "rnr" : "446341", "name" : "VG Rom 341", "_id" : "rGRFkbsa3oSbPsvba", "bnr" : "446" }
+{ "rnr" : "4601.111", "name" : "VG1", "_id" : "XdZdBmcA8sduR7DT7", "bnr" : "460" }
+{ "rnr" : "4363.306", "name" : "VG13", "_id" : "a9mccDdMFX3xSaRgC", "bnr" : "436" }
+{ "rnr" : "446336", "name" : "VG2", "_id" : "3859XkpesCWgtbPL8", "bnr" : "446" }
+{ "rnr" : "446340", "name" : "VG21", "_id" : "onWMJSvkvtEMbjwhK", "bnr" : "446" }
+{ "rnr" : "8208358", "name" : "Visningsrom IKM", "_id" : "ajFu86BqBcT5tqxN2", "bnr" : "820" }
+{ "rnr" : "360EU3-101", "name" : "Zoofysiolab", "_id" : "zJkrmzTBMQoFq78Yq", "bnr" : "360" }
+{ "rnr" : "360DU2-201", "name" : "Økologi/systematikk lab", "_id" : "WLtt7JJCoX8dF4LY2", "bnr" : "360" }

@@ -1,0 +1,111 @@
+<template name="home">
+    <div id="wrapper">
+        <div>
+          {{ >sidebar }}
+        
+        </div>
+
+        <div id="page-content-wrapper">
+            <div class="loading"><i class="fa fa-refresh fa-spin"></i></div>
+            {{ > content }}
+        </div>
+    </div>
+</template>
+
+<template name="content">
+  <div class="container-fluid">
+    {{# if error }}
+    <div class="alert alert-danger alert-dismissable" style="position: fixed; right: 0;">{{error.reason}}</div>
+    {{ /if }}
+
+    <div class="col-md-12">
+      <h3>{{ room.name }}</h3>
+      <h5>{{ building.name }}</h5>
+
+
+      {{# if content }}  
+        {{# each content}}
+        <div class="row">
+          <div class="col-md-12">
+            <h3>Meta</h3>
+            <p>{{ test }} </p>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-12">
+            <table class="table table-condensed">
+              <thead>
+                <tr>
+                  <th width="80">time</th>
+                  <th>Mon</th>
+                  <th>Tue</th>
+                  <th>Wed</th>
+                  <th>Thu</th>
+                  <th>Fri</th>
+                  <th>Sat</th>
+                  <th>Sun</th>
+                </tr>
+              </thead>
+              <tbody>
+              {{# each rows }}
+                <tr>
+                  <td>{{ time }}</td>
+
+                  {{#if mon }}
+                  <td class="free">{{mon.rowspan}}</td>
+                  {{ else }}
+                  <td class="booked">nope</td>
+                  {{/if}}
+
+                  {{#if tue }}
+                  <td class="free">{{tue.rowspan}}</td>
+                  {{ else }}
+                  <td class="booked">nope</td>
+                  {{/if}}
+
+                  {{#if wed }}
+                  <td class="free">{{wed.rowspan}}</td>
+                  {{ else }}
+                  <td class="booked">nope</td>
+                  {{/if}}
+                  
+                  {{#if thu }}
+                  <td class="free">{{thu.rowspan}}</td>
+                  {{ else }}
+                  <td class="booked">nope</td>
+                  {{/if}}
+
+                  {{#if fri }}
+                  <td class="free">{{fri.rowspan}}</td>
+                  {{ else }}
+                  <td class="booked">nope</td>
+                  {{/if}}
+
+                  {{#if sat }}
+                  <td class="free">{{sat.rowspan}}</td>
+                  {{ else }}
+                  <td class="booked">nope</td>
+                  {{/if}}
+
+                  {{#if sun }}
+                  <td class="free">{{sun.rowspan}}</td>
+                  {{ else }}
+                  <td class="booked">nope</td>
+                  {{/if}}
+
+                </tr>
+              {{/each}}
+              </tbody>
+            </table>
+          </div>
+
+          <div class="col-md-12">
+            <iframe width="600" height="420" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://use.mazemap.com/?&v=1&campusid=1&sharepoitype=poi&sharepoi=1119&embedded=true" style="border: 1px solid grey"></iframe><br/><small><a href="http://www.mazemap.com/">Map by MazeMap</a></small>
+          </div>
+        </div>
+        {{/ each}}
+      {{/ if }}
+    </div>
+  </div>
+</template>

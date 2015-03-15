@@ -20,3 +20,5 @@ mrt:pretty-fullcalendar
 underscore
 mrt:iconv-lite
 natestrauser:font-awesome
+iron:router
+amplify
